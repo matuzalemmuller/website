@@ -28,6 +28,13 @@ ul li
 {
  font-size:15px;
 }
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
 </style>
 
 
@@ -37,20 +44,25 @@ ul li
 
 <pp><strong>Technical Specialist</strong></pp>
 <p>
-  <span style="float: left">ElephantDrive, Florianópolis, Brazil (remote)</span>
-  <span style="float: right">Jan 2018 - Present</span>
+  <!-- <span style="float: left">ElephantDrive, Florianópolis, Brazil (remote)</span>
+  <span style="float: right">Jan 2018 - Present</span> -->
+  <p class="alignleft">ElephantDrive, Florianópolis, Brazil (remote)</p>
+  <p class="alignright">Jan 2018 - Present</p>
 </p> 
 <br>
 <ul>
   <li>Performs basic infrastructure maintenance on remote and cloud environments.</li>
+  <li>Provides insight on product features and development roadmap.</li>
   <li>Works in Quality Assurance team performing both manual and automated tests on the website and NAS/Desktop clients.</li>
-  <li>Provides Level 2 support for customers worldwide..</li>
+  <li>Provides Level 2 support for customers worldwide.</li>
 </ul>
 
 <pp><strong>Market Development Consultant</strong></pp>
 <p>
-  <span style="float: left">ElephantDrive, Florianópolis, Brazil (remote)</span>
-  <span style="float: right">Aug 2016 - Jan 2018</span>
+  <!-- <span style="float: left">ElephantDrive, Florianópolis, Brazil (remote)</span>
+  <span style="float: right">Aug 2016 - Jan 2018</span> -->
+  <p class="alignleft">ElephantDrive, Florianópolis, Brazil (remote)</p>
+  <p class="alignright">Aug 2016 - Jan 2018</p>
 </p> 
 <br>
 <ul>
@@ -61,9 +73,11 @@ ul li
 
 <pp><strong>Market Development Intern</strong></pp>
 <p>
-  <span style="float: left">ElephantDrive, Santa Barbara, USA</span>
-  <span style="float: right">Jun 2016 - Aug 2016</span>
-</p> 
+  <!-- <span style="float: left">ElephantDrive, Santa Barbara, USA</span>
+  <span style="float: right">Jun 2016 - Aug 2016</span> -->
+  <p class="alignleft">ElephantDrive, Santa Barbara, USA</p>
+  <p class="alignright">Jun 2016 - Aug 2016</p>
+</p>
 <br>
 <ul>
   <li>Helped in contract negotiations with Brazilian companies.</li>
@@ -72,22 +86,26 @@ ul li
 
 <pp><strong>Student Instructor</strong></pp>
 <p>
-  <span style="float: left">Instituto Federal de Santa Catarina, São José, Brazil</span>
-  <span style="float: right">Aug 2014 - Jun 2015</span>
+  <!-- <span style="float: left">Instituto Federal de Santa Catarina, São José, Brazil</span>
+  <span style="float: right">Aug 2014 - Jun 2015</span> -->
+  <p class="alignleft">Instituto Federal de Santa Catarina, São José, Brazil</p>
+  <p class="alignright">Aug 2014 - Jun 2015</p>
 </p>
 <br>
 <ul>
-  <li>Women in Engineering: The objective of the project was to encourage female high school students to study engineering by doing coding workshops, lectures and discussions.</li>
+  <li>Women in Engineering: Encouraged female high school students to study engineering by doing coding workshops, lectures, and discussions.</li>
 </ul>
 
 <pp><strong>Student Instructor</strong></pp>
 <p>
-  <span style="float: left">Instituto Federal de Santa Catarina, São José, Brazil</span>
-  <span style="float: right">Feb 2014 - Jul 2014</span>
+  <!-- <span style="float: left">Instituto Federal de Santa Catarina, São José, Brazil</span>
+  <span style="float: right">Feb 2014 - Jul 2014</span> -->
+  <p class="alignleft">Instituto Federal de Santa Catarina, São José, Brazil</p>
+  <p class="alignright">Feb 2014 - Jul 2014</p>
 </p>
 <br>
 <ul>
-<li>Game Design, Coding, & Teaching Resources: The objective of this project was to improve social and technical skills of students in high school using tools of visual coding and game design.</li>
+<li>Game Design, Coding, & Teaching Resources: Used tools of visual coding and game design to improve the social and technical skills of high school students..</li>
 </ul>
 
 <br>
@@ -100,8 +118,10 @@ ul li
 
 <pp><strong>MSc in Automation and Systems Engineering</strong></pp>
 <p>
-  <span style="float: left">Universidade Federal de Santa Catarina, Florianópolis, Brazil</span>
-  <span style="float: right">Mar 2019 - Present</span>
+  <!-- <span style="float: left">Universidade Federal de Santa Catarina, Florianópolis, Brazil</span>
+  <span style="float: right">Mar 2019 - Present</span> -->
+  <p class="alignleft">Universidade Federal de Santa Catarina, Florianópolis, Brazil</p>
+  <p class="alignright">Mar 2019 - Present</p>
 </p>
 <br>
 <ul>
@@ -111,8 +131,10 @@ ul li
 
 <pp><strong>Major in Telecommunications Engineering</strong></pp>
 <p>
-  <span style="float: left">Instituto Federal de Santa Catarina, São José, Brazil</span>
-  <span style="float: right">Jul 2012 - Dec 2018</span>
+  <!-- <span style="float: left">Instituto Federal de Santa Catarina, São José, Brazil</span>
+  <span style="float: right">Jul 2012 - Dec 2018</span> -->
+  <p class="alignleft">Instituto Federal de Santa Catarina, São José, Brazil</p>
+  <p class="alignright">Jul 2012 - Dec 2018</p>
 </p>
 <br>
 <ul>
@@ -121,8 +143,10 @@ ul li
 
 <pp><strong>Exchange Student - Bachelor in Engineering, Electrical and Electronics Engineering</strong></pp>
 <p>
-  <span style="float: left">University of California, Santa Barbara, Santa Barbara, United States</span>
-  <span style="float: right">Jun 2015 - Aug 2016</span>
+  <!-- <span style="float: left">University of California, Santa Barbara, Santa Barbara, United States</span>
+  <span style="float: right">Jun 2015 - Aug 2016</span> -->
+  <p class="alignleft">University of California, Santa Barbara, CA, United States</p>
+  <p class="alignright">Jun 2015 - Aug 2016</p>
 </p>
 <br>
 <ul>
