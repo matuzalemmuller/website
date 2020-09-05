@@ -15,8 +15,8 @@ As my daily tasks became more technical, I was also introduced to the Quality As
 
 Along with working in customer support, product development, and testing, I also assist developers and engineers by maintaining a remote infrastructure and keeping an eye on the cloud computing environments.
 
-Professionally, I have been a Jack of all trades for over 4 years and am now specializing in cloud environments and DevOps. Academically, I majored in telecommunications engineering with emphasis on cloud computing. I also studied abroad in the US thanks to a fully-funded scholarship provided by the Brazilian government, and am currently finishing my masters in Automation and Systems Engineering.
+Professionally, I have been a Jack of all trades for over 4 years and am now specializing in cloud environments and DevOps. Academically, I majored in telecommunications engineering with an emphasis on cloud computing. I also studied abroad in the US thanks to a fully-funded scholarship provided by the Brazilian government, and am currently finishing my masters in Automation and Systems Engineering.
 
-I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include traveling, cooking, reading, movies, and programming (honestly :v:).
+I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include traveling, cooking, reading, and movies.
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/matuzalemmuller) or [Keybase](https://www.keybase.io/matuzalemmuller).

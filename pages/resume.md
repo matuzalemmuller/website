@@ -115,8 +115,7 @@ ul li
     <li>Thesis: BDI agents for Embedded Systems.</li>
 </ul>
 
-
-<pp><strong>Major in Telecommunications Engineering</strong></pp>
+<pp><strong>B. Eng, Telecommunications Engineering</strong></pp>
 <p>
   <p class="alignleft">Instituto Federal de Santa Catarina, São José, Brazil</p>
   <p class="alignright">Jul 2012 - Dec 2018</p>
@@ -126,7 +125,7 @@ ul li
     <li>Dissertation: Storage in hyper-converged cloud infrastructure using containers.</li>
 </ul>
 
-<pp><strong>Exchange Student - Bachelor in Engineering, Electrical and Electronics Engineering</strong></pp>
+<pp><strong>Exchange Student - B. Eng, Electrical and Electronics Engineering</strong></pp>
 <p>
   <p class="alignleft">University of California, Santa Barbara, CA, United States</p>
   <p class="alignright">Jun 2015 - Aug 2016</p>
@@ -159,6 +158,7 @@ ul li
 <br>
 
 <ul>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/H6GV574HAYM2">Learning How to Learn: Powerful mental tools to help you master tough subjects. McMaster University. Credential H6GV574HAYM2. September 2020.</a></li>
     <li>
         <div class="panel-group">
             <div class="panel panel-default">
@@ -170,10 +170,10 @@ ul li
                 <div id="collapse1" class="panel-collapse collapse">
                 <ul>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/XAKPMPJ6FR92">Specialization Certificate. Credential XAKPMPJ6FR92.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/TMBUUDUW5R5A">AWS Fundamentals: Going Cloud-Native. Credential TMBUUDUW5R5A. July 2020.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/9QY9LM3F26EC">AWS Fundamentals: Addressing Security Risk. Credential 9QY9LM3F26EC. August 2020.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/88K9XSGF4ULN">AWS Fundamentals: Migrating to the Cloud. Credential 88K9XSGF4ULN. August 2020.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/A685WLFXCXEC">AWS Fundamentals: Building Serverless Applications. Credential A685WLFXCXEC. August 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/TMBUUDUW5R5A">AWS Fundamentals: Going Cloud-Native. July 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/9QY9LM3F26EC">AWS Fundamentals: Addressing Security Risk. August 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/88K9XSGF4ULN">AWS Fundamentals: Migrating to the Cloud. August 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/A685WLFXCXEC">AWS Fundamentals: Building Serverless Applications. August 2020.</a></li>
                 </ul>
                 </div>
             </div>
@@ -190,10 +190,10 @@ ul li
                 <div id="collapse2" class="panel-collapse collapse">
                 <ul>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/PL43DCB7UUEP">Specialization Certificate. Credential PL43DCB7UUEP.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/VNUULDW7PW29">Write Professional Emails in English. Credential VNUULDW7PW29. July 2020.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/85A485W3VHC4">Speak English Professionally: In Person, Online & On the Phone. Credential 85A485W3VHC4. August 2020.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/QDKJCXHXZA96">Build Your Professional ePortfolio in English. Credential QDKJCXHXZA96. August 2020.</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/SDA839P76RP4">Take Your English Communication Skills to the Next Level. Credential SDA839P76RP4. August 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/VNUULDW7PW29">Write Professional Emails in English. July 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/85A485W3VHC4">Speak English Professionally: In Person, Online & On the Phone. August 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/QDKJCXHXZA96">Build Your Professional ePortfolio in English. August 2020.</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/SDA839P76RP4">Take Your English Communication Skills to the Next Level. August 2020.</a></li>
                 </ul>
                 </div>
             </div>
@@ -201,5 +201,4 @@ ul li
     </li>
     <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/KS86WDPBFACR">Technical Support Fundamentals. Google. Credential KS86WDPBFACR. July 2020.</a></li>
     <li><a target="_blank" rel="noopener noreferrer" href="https://professional.ucsb.edu/">Advanced English Program. University of Santa Barbara, California. September 2015.</a></li>
-
 <br>
