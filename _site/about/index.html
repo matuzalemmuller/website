@@ -10,38 +10,50 @@
 
 <head>
 
+  
+  
+
+  
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="About">
+  <meta property="og:description" content="Problem solver, DevOps aspirant, and my family's IT guy">
+
+  <title>About</title>
   <meta name="description" content="Problem solver, DevOps aspirant, and my family's IT guy">
 
-  <title>Matuzalem Muller</title>
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Theme style -->
+  <script src="/assets/js/theme.js"></script>
 
   <!-- Font Awesome CDN -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
 
   <!-- Bootstrap CSS CDN -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
 
   <!-- Animate CSS CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" type="text/css"/>
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+  <link rel="stylesheet" href="/assets/css/style.css">
 
 </head>
 
-
-<body class="d-flex flex-column h-100">
+<body class="h-100 d-flex flex-column">
 
   <main class="flex-shrink-0 container mt-5">
-  <nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand-lg navbar-themed">
 
   <a class="navbar-brand" href="/"><h5><b>Matuzalem Muller</b></h5></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <i class="fas fa-1x fa-bars text-themed"></i>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
@@ -53,24 +65,25 @@
 
       
 
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
     </div>
   </div>
 
 </nav>
-  <div class="col-lg-10 mx-auto mt-5 post">
+    <div class="col-lg-10 mx-auto mt-5 markdown-body">
   <h1 id="about-me"><strong>About Me</strong></h1>
 
 <p><br /></p>
 
-<p>I started my career by facilitating international contract negotiations and providing insights about the Brazilian tech market to a US-based company. After a few months of working on implementing a project in Brazil, I switched roles to provide customer support Levels 1 and 2 in the same country. After succeeding in that role, I also started working on Level 2 support for customers worldwide.</p>
+<p>I have always been curious about how things work. When young, I would disassemble toys to understand how they work and then (hopefully) put them back together. Following this passion, I went to college for an engineering degree and quickly fell in love with all technology-related topics.</p>
 
-<p>As my daily tasks became more technical, I was also introduced to the Quality Assurance team and started working on manual and automated testing. My daily work on customer support and QA allowed me to gain a better understanding of product development, which led me to join the product team to collaborate on designing the development roadmap and cycles.</p>
+<p>I started my career by facilitating international contract negotiations and providing insights about the Brazilian tech market to a US-based company. After a few months of working on implementing a project in Brazil, I switched roles to provide customer support Level 2 for customers worldwide. I quickly started collaborating with multiple departments, working on manual and automated testing, providing insight on the product roadmap, managing AWS cloud resources, and maintaining local and cloud servers.</p>
 
-<p>Along with working in customer support, product development, and testing, I also assist developers and engineers by maintaining a remote infrastructure and keeping an eye on the cloud computing environments.</p>
+<p>I have been a Jack of all trades for over 5 years and am specializing in cloud environments and DevOps. My daily tasks include setting up and maintaining pipelines in GitLab, watching servers using Grafana, troubleshooting issues using Kibana, and providing guidance to other team members in various fields (as I have been involved with multiple departments for a long time).</p>
 
-<p>Professionally, I have been a Jack of all trades for over 4 years and am now specializing in cloud environments and DevOps. Academically, I majored in telecommunications engineering with an emphasis on cloud computing. I also studied abroad in the US thanks to a fully-funded scholarship provided by the Brazilian government, and am currently finishing my masters in Automation and Systems Engineering.</p>
+<!-- Academically, I majored in telecommunications engineering with an emphasis on cloud computing. During my undergrad studies, I also took courses abroad in the US thanks to a fully-funded scholarship provided by the Brazilian government. Finally, I recently finished my master's in Automation and Systems Engineering, where I developed a [framework to implement intelligent BDI agents in embedded systems](https://github.com/Embedded-BDI/embedded-bdi). -->
 
-<p>I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include traveling, cooking, reading, and movies.</p>
+<p>I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include solving puzzles, cooking, and reading. Other interests include Free and Open Source Software (FOSS), Linux, and phylosophy.</p>
 
 <p>Feel free to reach out to me through <a href="https://www.linkedin.com/in/matuzalemmuller">LinkedIn</a> or <a href="https://www.keybase.io/matuzalemmuller">Keybase</a>.</p>
 
@@ -106,6 +119,7 @@
   </small>
   
 </footer>
+
   
   <!-- GitHub Buttons -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -129,6 +143,7 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 })
 </script>
+
 
 </body>
 

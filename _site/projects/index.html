@@ -10,38 +10,50 @@
 
 <head>
 
+  
+  
+
+  
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Projects">
+  <meta property="og:description" content="Problem solver, DevOps aspirant, and my family's IT guy">
+
+  <title>Projects</title>
   <meta name="description" content="Problem solver, DevOps aspirant, and my family's IT guy">
 
-  <title>Matuzalem Muller</title>
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Theme style -->
+  <script src="/assets/js/theme.js"></script>
 
   <!-- Font Awesome CDN -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
 
   <!-- Bootstrap CSS CDN -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
 
   <!-- Animate CSS CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" type="text/css"/>
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+  <link rel="stylesheet" href="/assets/css/style.css">
 
 </head>
 
-
-<body class="d-flex flex-column h-100">
+<body class="h-100 d-flex flex-column">
 
   <main class="flex-shrink-0 container mt-5">
-  <nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand-lg navbar-themed">
 
   <a class="navbar-brand" href="/"><h5><b>Matuzalem Muller</b></h5></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <i class="fas fa-1x fa-bars text-themed"></i>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
@@ -53,84 +65,66 @@
 
       
 
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
     </div>
   </div>
 
 </nav>
-  <br>
+    <br>
 
-<!-- Remote Projects JS -->
-<script src="/assets/js/remote-projects.js"></script>
 
 <div class="card-columns m-3 mt-5">
 
   <!-- Remote Projects -->
   <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="https://github.com/matuzalemmuller/Frevo" class="project card text-dark"><div class="card-body">
-      <h5 id="Frevo-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;Frevo
-      </h5>
-      <p id="Frevo-desc" class="card-text">Runs custom commands in OSX terminal with two clicks</p>
-      <p id="Frevo-tools" class="card-text"></p>
-    </div>
-  </a>
-</div>
-
-    <script>get_tools("matuzalemmuller/Frevo")</script>
-
-  <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="https://github.com/matuzalemmuller/GitHub-Release-Download-Counter" class="project card text-dark"><div class="card-body">
-      <h5 id="GitHub-Release-Download-Counter-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;Github Release Download Counter
-      </h5>
-      <p id="GitHub-Release-Download-Counter-desc" class="card-text">Browser extension that displays download count of release assets in public GitHub repositories</p>
-      <p id="GitHub-Release-Download-Counter-tools" class="card-text"></p>
-    </div>
-  </a>
-</div>
-
-    <script>get_tools("matuzalemmuller/GitHub-Release-Download-Counter")</script>
-
-  <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="https://github.com/matuzalemmuller/dummy-files-creator" class="project card text-dark"><div class="card-body">
+  <a href="https://github.com/matuzalemmuller/dummy-files-creator" class="project card text-themed"><div class="card-body">
       <h5 id="dummy-files-creator-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;Dummy Files Creator
       </h5>
       <p id="dummy-files-creator-desc" class="card-text">Desktop application to generate dummy files</p>
-      <p id="dummy-files-creator-tools" class="card-text"></p>
+      <p id="dummy-files-creator-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">file-creation</span><span class="badge badge-pill text-primary border border-primary ml-1">multi-platform</span><span class="badge badge-pill text-primary border border-primary ml-1">pyqt5</span><span class="badge badge-pill text-primary border border-primary ml-1">python3</span><span class="badge badge-pill text-primary border border-primary ml-1">testing</span></p>
     </div>
   </a>
-</div>
-
-    <script>get_tools("matuzalemmuller/dummy-files-creator")</script>
-
-  <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="https://github.com/matuzalemmuller/TwitchSpammer" class="project card text-dark"><div class="card-body">
+</div><div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="https://github.com/matuzalemmuller/TwitchSpammer" class="project card text-themed"><div class="card-body">
       <h5 id="TwitchSpammer-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;Twitchspammer
       </h5>
       <p id="TwitchSpammer-desc" class="card-text">Regularly sends pre-defined messages to a Twitch channel</p>
-      <p id="TwitchSpammer-tools" class="card-text"></p>
+      <p id="TwitchSpammer-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">chatbot</span><span class="badge badge-pill text-primary border border-primary ml-1">spammer</span><span class="badge badge-pill text-primary border border-primary ml-1">twitch</span><span class="badge badge-pill text-primary border border-primary ml-1">twitchbot</span></p>
     </div>
   </a>
-</div>
-
-    <script>get_tools("matuzalemmuller/TwitchSpammer")</script>
-
-  <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="https://github.com/matuzalemmuller/test-files-creator" class="project card text-dark"><div class="card-body">
+</div><div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="https://github.com/matuzalemmuller/Frevo" class="project card text-themed"><div class="card-body">
+      <h5 id="Frevo-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;Frevo
+      </h5>
+      <p id="Frevo-desc" class="card-text">Runs custom commands in OSX terminal with two clicks</p>
+      <p id="Frevo-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">macos</span><span class="badge badge-pill text-primary border border-primary ml-1">pyqt5</span><span class="badge badge-pill text-primary border border-primary ml-1">systemtray</span><span class="badge badge-pill text-primary border border-primary ml-1">topbar</span></p>
+    </div>
+  </a>
+</div><div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="https://github.com/matuzalemmuller/test-files-creator" class="project card text-themed"><div class="card-body">
       <h5 id="test-files-creator-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;Test Files Creator
       </h5>
       <p id="test-files-creator-desc" class="card-text">Script to be used by crontab to create, delete and modify test files on a scheduled basis.</p>
-      <p id="test-files-creator-tools" class="card-text"></p>
+      <p id="test-files-creator-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">cron</span><span class="badge badge-pill text-primary border border-primary ml-1">crontab</span><span class="badge badge-pill text-primary border border-primary ml-1">file-creation</span><span class="badge badge-pill text-primary border border-primary ml-1">testing</span></p>
     </div>
   </a>
 </div>
 
-    <script>get_tools("matuzalemmuller/test-files-creator")</script>
-
-  
-
   <!-- Local Projects -->
+  <div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="/projects/embedded-bdi" class="project card text-themed"><div class="card-body">
+      <h5 id="embedded-bdi-name" class="card-title">Embedded-BDI
+      </h5>
+      <p id="embedded-bdi-desc" class="card-text">Run BDI agents in Embedded Systems</p>
+      <p id="embedded-bdi-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">embedded-systems</span><span class="badge badge-pill text-primary border border-primary ml-1">agentspeak</span><span class="badge badge-pill text-primary border border-primary ml-1">bdi</span><span class="badge badge-pill text-primary border border-primary ml-1">agents</span></p>
+    </div>
+  </a>
+</div>
+
   
 
 </div>
+
   </main>
 
   <footer class="mt-auto py-3 text-center">
@@ -162,6 +156,7 @@
   </small>
   
 </footer>
+
   
   <!-- GitHub Buttons -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -185,6 +180,7 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 })
 </script>
+
 
 </body>
 

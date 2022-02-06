@@ -9,14 +9,14 @@ weight: 3
 
 <br>
 
-I started my career by facilitating international contract negotiations and providing insights about the Brazilian tech market to a US-based company. After a few months of working on implementing a project in Brazil, I switched roles to provide customer support Levels 1 and 2 in the same country. After succeeding in that role, I also started working on Level 2 support for customers worldwide.
+I have always been curious about how things work. When young, I would disassemble toys to understand how they work and then (hopefully) put them back together. Following this passion, I went to college for an engineering degree and quickly fell in love with all technology-related topics.
 
-As my daily tasks became more technical, I was also introduced to the Quality Assurance team and started working on manual and automated testing. My daily work on customer support and QA allowed me to gain a better understanding of product development, which led me to join the product team to collaborate on designing the development roadmap and cycles.
+I started my career by facilitating international contract negotiations and providing insights about the Brazilian tech market to a US-based company. After a few months of working on implementing a project in Brazil, I switched roles to provide customer support Level 2 for customers worldwide. I quickly started collaborating with multiple departments, working on manual and automated testing, providing insight on the product roadmap, managing AWS cloud resources, and maintaining local and cloud servers.
 
-Along with working in customer support, product development, and testing, I also assist developers and engineers by maintaining a remote infrastructure and keeping an eye on the cloud computing environments.
+I have been a Jack of all trades for over 5 years and am specializing in cloud environments and DevOps. My daily tasks include setting up and maintaining pipelines in GitLab, watching servers using Grafana, troubleshooting issues using Kibana, and providing guidance to other team members in various fields (as I have been involved with multiple departments for a long time).
 
-Professionally, I have been a Jack of all trades for over 4 years and am now specializing in cloud environments and DevOps. Academically, I majored in telecommunications engineering with an emphasis on cloud computing. I also studied abroad in the US thanks to a fully-funded scholarship provided by the Brazilian government, and am currently finishing my masters in Automation and Systems Engineering.
+<!-- Academically, I majored in telecommunications engineering with an emphasis on cloud computing. During my undergrad studies, I also took courses abroad in the US thanks to a fully-funded scholarship provided by the Brazilian government. Finally, I recently finished my master's in Automation and Systems Engineering, where I developed a [framework to implement intelligent BDI agents in embedded systems](https://github.com/Embedded-BDI/embedded-bdi). -->
 
-I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include traveling, cooking, reading, and movies.
+I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include solving puzzles, cooking, and reading. Other interests include Free and Open Source Software (FOSS), Linux, and phylosophy.
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/matuzalemmuller) or [Keybase](https://www.keybase.io/matuzalemmuller).
