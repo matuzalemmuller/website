@@ -15,6 +15,6 @@ I started my career by facilitating international contract negotiations and prov
 
 I have been a Jack of all trades for over 5 years and am specializing in cloud environments and DevOps. My daily tasks include setting up and maintaining pipelines in GitLab, watching servers using Grafana, troubleshooting issues using Kibana, and providing guidance to other team members in various fields (as I have been involved with multiple departments for a long time).
 
-I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include solving puzzles, cooking, and reading. Other interests include Free and Open Source Software (FOSS), Linux, and philosophy.
+I enjoy programming, computers, servers, and I am always looking for new challenges. My hobbies include solving puzzles, gaming, and reading. Other interests include Free and Open Source Software (FOSS), Linux, and philosophy.
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/matuzalemmuller) or [Keybase](https://www.keybase.io/matuzalemmuller).
