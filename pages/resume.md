@@ -43,60 +43,81 @@ ul li
 }
 </style>
 
+A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_Matuzalem_DevEmail.pdf).
+
+---
+
 <center><pt>Professional Experience</pt></center>
 
 <pp><strong>Software Developer</strong></pp>
+<div>
 <p>
   <p class="alignleft">ElephantDrive, Los Angeles, US</p>
   <p class="alignright">Sep 2021 - Present</p>
-</p> 
+</p>
+<br>
+</div>
 <br>
 <ul>
-  <li>Create and maintain CI pipelines to automate service deployment and testing routines.</li>
-  <li>Plan, design, and develop functionalities for managing AWS infrastructure, monitoring alerts, and automation of quality control and release engineering.</li>
-  <li>Achieve and maintain AWS certifications.</li>
+  <li>Create and maintain GitLab CI/CD pipelines to automate service deployment, build client applications, and run testing routines;</li>
+  <li>Design and develop functionalities for managing AWS infrastructure and monitoring alerts;</li>
+  <li>Contribute to designing the development roadmap for client applications (mobile, desktop, and NAS) and website, based on previous experience with customer support and knowledge of customer expectations/needs;</li>
+  <li>Coordinate software releases with strategic partners and publish new software versions to App Stores.</li>
 </ul>
 
 <pp><strong>Technical Specialist</strong></pp>
+<div>
 <p>
-  <p class="alignleft">ElephantDrive, Florianópolis, Brazil (remote)</p>
+  <p class="alignleft">ElephantDrive, Florianópolis, SC, Brazil (remote)</p>
   <p class="alignright">Jan 2018 - Aug 2021</p>
-</p> 
+</p>
+<br>
+</div> 
 <br>
 <ul>
-  <li>Performed basic infrastructure maintenance on remote and cloud environments.</li>
-  <li>Provided insight on product features and development roadmap.</li>
-  <li>Worked in Quality Assurance team performing both manual and automated tests on the website and NAS/Desktop clients.</li>
-  <li>Provided Level 2 support for customers worldwide.</li>
+  <li>Maintained remote infrastructure used for testing and building client applications, with Windows, Linux, and NAS servers;</li>
+  <li>Performed manual and automated testing and quality assurance tasks for websites and client applications on Windows, macOS, Ubuntu, and NAS. Tests mainly were manual, but also programmed tests for the websites using the Selenium package for Java;</li>
+  <li>Contributed to designing the development roadmap for client applications (mobile, desktop, and NAS) and website, based on experience with customer support and knowledge of customer expectations/needs;</li>
+  <li>Provided support level 2 worldwide: +4300 tickets resolved with 92% “Good” satisfaction rate in the ticketing platform.</li>
 </ul>
 
 <pp><strong>Market Development Consultant</strong></pp>
+<div>
 <p>
-  <p class="alignleft">ElephantDrive, Florianópolis, Brazil (remote)</p>
+  <p class="alignleft">ElephantDrive, Florianópolis, SC, Brazil (remote)</p>
   <p class="alignright">Aug 2016 - Jan 2018</p>
-</p> 
+</p>
+<br>
+</div> 
 <br>
 <ul>
-  <li>Helped in contract negotiations with Brazilian companies.</li>
-  <li>Worked in Quality Assurance team performing both manual and automated tests in the website and desktop application.</li>
-  <li>Provided Level 1 and 2 support for Brazilian customers.</li>
+  <li>Assisted in contract negotiations for a partnership with a Brazilian company and promoting and establishing a product brand in Brazil;</li>
+  <li>Updated internal technical documentation on Confluence and external documentation on Help Desk;</li>
+  <li>Provided support levels 1 and 2 in Brazil: +3000 tickets resolved with 95% “Good” satisfaction rate in the ticketing platform.</li>
 </ul>
 
 <pp><strong>Market Development Intern</strong></pp>
+<div>
 <p>
   <p class="alignleft">ElephantDrive, Santa Barbara, USA</p>
   <p class="alignright">Jun 2016 - Aug 2016</p>
 </p>
 <br>
+</div> 
+<br>
 <ul>
-  <li>Helped in contract negotiations with Brazilian companies.</li>
-  <li>Wrote internal documentation for support procedures and public FAQs.</li>
+  <li>Assisted in contract negotiations for a partnership with a Brazilian company and promoting and establishing a product brand in Brazil;</li>
+  <li>Updated internal technical documentation on Confluence and external documentation on Help Desk.</li>
 </ul>
+
 <pp><strong>Student Instructor</strong></pp>
+<div>
 <p>
-  <p class="alignleft">Instituto Federal de Santa Catarina, São José, Brazil</p>
+  <p class="alignleft">Instituto Federal de Santa Catarina, São José, SC, Brazil</p>
   <p class="alignright">Feb 2014 - Jun 2015</p>
 </p>
+<br>
+</div> 
 <br>
 <ul>
   <li><i>Women in Engineering:</i> Encouraged female high school students to study engineering by doing coding workshops, lectures, and discussions.</li>
@@ -110,10 +131,13 @@ ul li
 <center><pt>Academic Background</pt></center>
 
 <pp><strong>MSc, Automation and Systems Engineering</strong></pp>
+<div>
 <p>
-  <p class="alignleft">Universidade Federal de Santa Catarina, Florianópolis, Brazil</p>
+  <p class="alignleft">Universidade Federal de Santa Catarina, Florianópolis, SC, Brazil</p>
   <p class="alignright">Mar 2019 - Feb 2022</p>
 </p>
+<br>
+</div> 
 <br>
 <ul>
     <li>Thesis: BDI agents for Embedded Systems.</li>
@@ -121,20 +145,26 @@ ul li
 </ul>
 
 <pp><strong>B. Eng, Telecommunications Engineering</strong></pp>
+<div>
 <p>
-  <p class="alignleft">Instituto Federal de Santa Catarina, São José, Brazil</p>
+  <p class="alignleft">Instituto Federal de Santa Catarina, São José, SC, Brazil</p>
   <p class="alignright">Jul 2012 - Dec 2018</p>
 </p>
+<br>
+</div> 
 <br>
 <ul>
     <li>Thesis: Storage in hyper-converged cloud infrastructure using containers.</li>
 </ul>
 
 <pp><strong>Exchange Student - B. Eng, Electrical and Electronics Engineering</strong></pp>
+<div>
 <p>
   <p class="alignleft">University of California, Santa Barbara, CA, United States</p>
   <p class="alignright">Jun 2015 - Aug 2016</p>
 </p>
+<br>
+</div> 
 <br>
 <ul>
     <li>Fully-funded scholarship provided by the Brazilian government through the Brazil Scientific Mobility Program (BSMP) and Science Without Borders (SWB).
@@ -148,8 +178,11 @@ ul li
 <center><pt>Skills</pt></center>
 
 <ul>
-  <li>Programming: C/C++, Java, Python, Bash, Git.</li>
-  <li>Cloud/DevOps: Linux, SSH, Networking, Docker, AWS, GitLab CI, GitHub Actions.</li>
+  <li><b>Advanced:</b> Python (<i>boto3, requests, PyQT</i>), Linux (<i>+10 years of daily usage and +5 years of server maintenance</I>), SSH, Git, Bash, Level 2 support management.</li>
+  <li><b>Intermediate:</b> C/C++, Docker, GitLab CI, GitHub Actions, LaTeX, Jira, Networking, AWS, GCP, OCI, Project Management.</li>
+  <li><b>Basic:</b> MATLAB, Java, MySQL, Jenkins, Grafana, Prometheus, Kubernetes, Terraform.</li>
+  <li><b>LinkedIn Skill Assessment: </b>Python, Bash, C++.</li>
+  <li><b>Language:</b> native Portuguese, fluent English.</li>
 </ul>
 
 <br>
@@ -163,10 +196,10 @@ ul li
   <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.badgr.com/public/assertions/6ksfFLk1TLWtKxilsTkHLg">GitLab Certified Associate. Jan 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/5b0f6fb0-b647-49f3-9f9f-5c773a922af9">Mutirão DevOps. Dec 2021.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/XAKPMPJ6FR92">Specialization: AWS Fundamentals. AWS. 4 Courses. Aug 2020.</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/KS86WDPBFACR">Technical Support Fundamentals. Google. Jul 2020.</a></li>
   <br>
   <pp>Other Certifications</pp>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/H6GV574HAYM2">Learning How to Learn: Powerful mental tools to help you master tough subjects. McMaster University. Sep 2020.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/PL43DCB7UUEP">Specialization: Improve Your English Communication Skills. Georgia Tech. 4 Courses. Aug 2020.</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/KS86WDPBFACR">Technical Support Fundamentals. Google. Jul 2020.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://professional.ucsb.edu/">Advanced English Program. University of Santa Barbara, California. Sep 2015.</a></li>
 </ul>

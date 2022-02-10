@@ -4,7 +4,7 @@ My personal website built using [portfolYOU](https://github.com/YoussefRaafatNas
 
 ### Steps to build and serve jekyll page
 
-Install `ruby`:`
+Install `ruby`:
 
 ```
 sudo apt install ruby
