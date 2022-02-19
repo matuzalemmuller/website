@@ -121,7 +121,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <br>
 <ul>
   <li><i>Women in Engineering:</i> Encouraged female high school students to study engineering by doing coding workshops, lectures, and discussions.</li>
-  <li><i>Game Design, Coding, & Teaching Resources:</i> Used tools of visual coding and game design to improve the social and technical skills of high school students..</li>
+  <li><i>Game Design, Coding, & Teaching Resources:</i> Used tools of visual coding and game design to improve the social and technical skills of high school students.</li>
 </ul>
 
 <br>
@@ -140,8 +140,8 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 </div> 
 <br>
 <ul>
-    <li>Thesis: BDI agents for Embedded Systems.</li>
-    <li><a target="_blank" rel="noopener noreferrer" href="https://wesaac.ufsc.br/2021/wp-content/uploads/2021/07/Directions.for_.implementing.BDI_.agents.in_.embedded.systems.with_.limited.hardware.resources.pdf">Published Paper: Directions for implementing BDI agents in embedded systems with limited hardware resources</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://repositorio.ufsc.br/handle/123456789/231270">Thesis: BDI Agent-Oriented Programming in Embedded Systems.</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://wesaac.ufsc.br/2021/wp-content/uploads/2021/07/Directions.for_.implementing.BDI_.agents.in_.embedded.systems.with_.limited.hardware.resources.pdf">Published Paper: Directions for implementing BDI agents in embedded systems with limited hardware resources</a></li>
 </ul>
 
 <pp><strong>B. Eng, Telecommunications Engineering</strong></pp>
@@ -178,9 +178,9 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <center><pt>Skills</pt></center>
 
 <ul>
-  <li><b>Advanced:</b> Python (<i>boto3, requests, PyQT</i>), Linux (<i>+10 years of daily usage and +5 years of server maintenance</I>), SSH, Git, Bash, Level 2 support management.</li>
-  <li><b>Intermediate:</b> C/C++, Docker, GitLab CI, GitHub Actions, LaTeX, Jira, Networking, AWS, GCP, OCI, Project Management.</li>
-  <li><b>Basic:</b> MATLAB, Java, MySQL, Jenkins, Grafana, Prometheus, Kubernetes, Terraform.</li>
+  <li><b>Advanced:</b> Python (<i>boto3, requests, PyQt</i>), Linux (<i>+10 years of daily usage and +5 years of server maintenance</I>), SSH, Git, Bash, Level 2 support management.</li>
+  <li><b>Intermediate:</b> C/C++, Docker, GitLab CI, GitHub Actions, LaTeX, Jira, Networking, AWS, OCI, Project Management.</li>
+  <li><b>Basic:</b> MATLAB, Java, MySQL, Jenkins, Grafana, Prometheus, Kubernetes, Terraform, Ansible, GCP.</li>
   <li><b>LinkedIn Skill Assessment: </b>Python, Bash, C++.</li>
   <li><b>Language:</b> native Portuguese, fluent English.</li>
 </ul>
@@ -193,6 +193,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <ul>
   <pp>Main Certifications</pp>
   <br>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=17517B9B14A755B1D7CD88250EEA9A835B981D69F2A6A48687F7CE1D882A0FD4">Oracle Cloud Infrastructure Foundations 2021 Associate. Feb 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.badgr.com/public/assertions/6ksfFLk1TLWtKxilsTkHLg">GitLab Certified Associate. Jan 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/5b0f6fb0-b647-49f3-9f9f-5c773a922af9">Mutirão DevOps. Dec 2021.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/XAKPMPJ6FR92">Specialization: AWS Fundamentals. AWS. 4 Courses. Aug 2020.</a></li>
