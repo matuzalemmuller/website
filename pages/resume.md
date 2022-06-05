@@ -49,7 +49,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 
 <center><pt>Professional Experience</pt></center>
 
-<pp><strong>Software Developer</strong></pp>
+<pp><strong>Site Reliability Engineer</strong></pp>
 <div>
 <p>
   <p class="alignleft">ElephantDrive, Los Angeles, US</p>
@@ -59,8 +59,9 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 </div>
 <br>
 <ul>
-  <li>Create and maintain GitLab CI/CD pipelines to automate service deployment, build client applications, and run testing routines;</li>
-  <li>Design and develop functionalities for managing AWS infrastructure and monitoring alerts;</li>
+  <li>Create and maintain GitLab CI pipelines to automate service deployment, build client applications, and run testing routines;</li>
+  <li>Monitoring of AWS infrastructure using Grafana, Prometheus, and others;</li>
+  <li>Manage AWS infrastructure using Terraform;</li>
   <li>Contribute to designing the development roadmap for client applications (mobile, desktop, and NAS) and website, based on previous experience with customer support and knowledge of customer expectations/needs;</li>
   <li>Coordinate software releases with strategic partners and publish new software versions to App Stores.</li>
 </ul>
@@ -178,9 +179,9 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <center><pt>Skills</pt></center>
 
 <ul>
-  <li><b>Advanced:</b> Python (<i>boto3, requests, PyQt</i>), Linux (<i>+10 years of daily usage and +5 years of server maintenance</I>), SSH, Git, Bash, Level 2 support management.</li>
-  <li><b>Intermediate:</b> C/C++, Docker, GitLab CI, GitHub Actions, LaTeX, Jira, Networking, AWS, OCI, Project Management.</li>
-  <li><b>Basic:</b> MATLAB, Java, MySQL, Jenkins, Grafana, Prometheus, Kubernetes, Terraform, Ansible, GCP.</li>
+  <li><b>Advanced:</b> Python (<i>boto3, requests, PyQt</i>), Linux (<i>+10 years of daily usage and +6 years of server maintenance</I>), SSH, Git, GitLab CI, Bash.</li>
+  <li><b>Intermediate:</b> C/C++, Docker, GitHub Actions, LaTeX, Jira, Networking, AWS, Terraform, Prometheus, Granada, Project Management.</li>
+  <li><b>Basic:</b> MATLAB, Java, MySQL, Jenkins, Kubernetes, GCP, OCI.</li>
   <li><b>LinkedIn Skill Assessment: </b>Python, Bash, C++.</li>
   <li><b>Language:</b> native Portuguese, fluent English.</li>
 </ul>
@@ -193,6 +194,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <ul>
   <pp>Main Certifications</pp>
   <br>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/9e01a36b-eb84-44e2-8fdc-4037aee9d5d9">Uncomplicating Docker. Apr 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=17517B9B14A755B1D7CD88250EEA9A835B981D69F2A6A48687F7CE1D882A0FD4">Oracle Cloud Infrastructure Foundations 2021 Associate. Feb 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.badgr.com/public/assertions/6ksfFLk1TLWtKxilsTkHLg">GitLab Certified Associate. Jan 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/5b0f6fb0-b647-49f3-9f9f-5c773a922af9">Mutirão DevOps. Dec 2021.</a></li>
