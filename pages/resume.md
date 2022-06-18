@@ -49,7 +49,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 
 <center><pt>Professional Experience</pt></center>
 
-<pp><strong>Site Reliability Engineer</strong></pp>
+<pp><strong>DevOps Engineer</strong></pp>
 <div>
 <p>
   <p class="alignleft">ElephantDrive, Los Angeles, US</p>
