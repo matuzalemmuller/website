@@ -196,7 +196,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
   <br>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/9e01a36b-eb84-44e2-8fdc-4037aee9d5d9">Uncomplicating Docker. Apr 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=17517B9B14A755B1D7CD88250EEA9A835B981D69F2A6A48687F7CE1D882A0FD4">Oracle Cloud Infrastructure Foundations 2021 Associate. Feb 2022.</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.badgr.com/public/assertions/6ksfFLk1TLWtKxilsTkHLg">GitLab Certified Associate. Jan 2022.</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/3a87086a-6c38-4460-8350-f31e644c94b9/public_url">GitLab Certified Associate. Jan 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/5b0f6fb0-b647-49f3-9f9f-5c773a922af9">Mutirão DevOps. Dec 2021.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/XAKPMPJ6FR92">Specialization: AWS Fundamentals. AWS. 4 Courses. Aug 2020.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/verify/KS86WDPBFACR">Technical Support Fundamentals. Google. Jul 2020.</a></li>
