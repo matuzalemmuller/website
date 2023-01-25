@@ -53,62 +53,51 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <div>
 <p>
   <p class="alignleft">ElephantDrive, Los Angeles, US</p>
-  <p class="alignright">Sep 2021 - Present</p>
+  <p class="alignright">October 2021 to Present</p>
 </p>
 <br>
 </div>
 <br>
 <ul>
-  <li>Create and maintain GitLab CI pipelines to automate service deployment, build client applications, and run testing routines;</li>
-  <li>Monitoring of AWS infrastructure using Grafana, Prometheus, and others;</li>
-  <li>Manage AWS infrastructure using Terraform;</li>
-  <li>Contribute to designing the development roadmap for client applications (mobile, desktop, and NAS) and website, based on previous experience with customer support and knowledge of customer expectations/needs;</li>
-  <li>Coordinate software releases with strategic partners and publish new software versions to App Stores.</li>
+  <li>Oversee the creation of GitLab CI/CD pipelines to automate software development, testing, and release.</li>
+  <li>Identified an opportunity to automate manual service deployment, reducing total time by 70%.</li>
+  <li>Guided the migration of all codebase (git and SVN-based) from Beanstalk to GitLab.</li>
+  <li>Supervise the AWS infrastructure using Terraform, AWS Console, Grafana, Prometheus, ELK, and others.</li>
+  <li>Design and execute development roadmaps for client applications and websites; bridge communications with clients regularly to align objectives, discuss progress, and resolve challenges.</li>
+  <li>Direct software releases with strategic partners and the publishing of new versions to app stores.</li>
 </ul>
 
-<pp><strong>Technical Specialist</strong></pp>
+<pp><strong>DevOps Specialist</strong></pp>
 <div>
 <p>
   <p class="alignleft">ElephantDrive, Florianópolis, SC, Brazil (remote)</p>
-  <p class="alignright">Jan 2018 - Aug 2021</p>
+  <p class="alignright">March 2020 to September 2021</p>
 </p>
 <br>
-</div> 
+</div>
 <br>
 <ul>
-  <li>Maintained remote infrastructure used for testing and building client applications, with Windows, Linux, and NAS servers;</li>
-  <li>Performed manual and automated testing and quality assurance tasks for websites and client applications on Windows, macOS, Ubuntu, and NAS. Tests mainly were manual, but also programmed tests for the websites using the Selenium package for Java;</li>
-  <li>Contributed to designing the development roadmap for client applications (mobile, desktop, and NAS) and website, based on experience with customer support and knowledge of customer expectations/needs;</li>
-  <li>Provided support level 2 worldwide: +4300 tickets resolved with 92% “Good” satisfaction rate in the ticketing platform.</li>
+  <li>Created Kibana dashboards with reporting on service health and client-related requests, providing the developers with detailed information about client behavior and request statistics.</li>
+  <li>Participated in incident reporting and provided hands-on troubleshooting during live service interruptions.</li>
+  <li>Implemented best practices in the organization based on the AWS Well-Architected framework, such as requiring MFA for all accounts and disabling console access for users that only require programmatic access.</li>
+  <li>Designed and executed development roadmaps for client applications and websites; bridged communications with clients regularly to align objectives, discuss progress, and resolve challenges.</li>
+  <li>Wrote documentation about internal development and deployment processes.</li>
 </ul>
 
-<pp><strong>Market Development Consultant</strong></pp>
+<pp><strong>Technical Specialist & Market Development Consultant</strong></pp>
 <div>
 <p>
   <p class="alignleft">ElephantDrive, Florianópolis, SC, Brazil (remote)</p>
-  <p class="alignright">Aug 2016 - Jan 2018</p>
+  <p class="alignright">June 2016 to February 2020</p>
 </p>
 <br>
 </div> 
 <br>
 <ul>
-  <li>Assisted in contract negotiations for a partnership with a Brazilian company and promoting and establishing a product brand in Brazil;</li>
-  <li>Updated internal technical documentation on Confluence and external documentation on Help Desk;</li>
-  <li>Provided support levels 1 and 2 in Brazil: +3000 tickets resolved with 95% “Good” satisfaction rate in the ticketing platform.</li>
-</ul>
-
-<pp><strong>Market Development Intern</strong></pp>
-<div>
-<p>
-  <p class="alignleft">ElephantDrive, Santa Barbara, USA</p>
-  <p class="alignright">Jun 2016 - Aug 2016</p>
-</p>
-<br>
-</div> 
-<br>
-<ul>
-  <li>Assisted in contract negotiations for a partnership with a Brazilian company and promoting and establishing a product brand in Brazil;</li>
-  <li>Updated internal technical documentation on Confluence and external documentation on Help Desk.</li>
+  <li>Monitored and maintained the performance of the remote infrastructure used for testing and building client applications with Windows, Linux, and NAS servers; ensured full accessibility and functionality at all times, including high-volume periods.</li>
+  <li>Executed manual and automated testing and quality assurance tasks for websites and client applications on Windows, macOS, Ubuntu, and NAS; programmed tests for the websites using Selenium for Java.</li>
+  <li>Provided knowledgeable insights to optimize the development roadmap for client applications (mobile, desktop, NAS) and website.</li>
+  <li>Delivered Level 1 and 2 support in Brazil and Level 2 support worldwide; engaged with users in a friendly, professional manner to troubleshoot, diagnose, and resolve their issues; sustained a 92% “good” satisfaction rating in Zendesk with 7500+ tickets resolved.</li>
 </ul>
 
 <pp><strong>Student Instructor</strong></pp>
@@ -131,7 +120,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 
 <center><pt>Academic Background</pt></center>
 
-<pp><strong>MSc, Automation and Systems Engineering</strong></pp>
+<pp><strong>Master of Science (M.Sc.) in Automation and Systems Engineering</strong></pp>
 <div>
 <p>
   <p class="alignleft">Universidade Federal de Santa Catarina, Florianópolis, SC, Brazil</p>
@@ -145,7 +134,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
   <li><a target="_blank" rel="noopener noreferrer" href="https://wesaac.ufsc.br/2021/wp-content/uploads/2021/07/Directions.for_.implementing.BDI_.agents.in_.embedded.systems.with_.limited.hardware.resources.pdf">Published Paper: Directions for implementing BDI agents in embedded systems with limited hardware resources</a></li>
 </ul>
 
-<pp><strong>B. Eng, Telecommunications Engineering</strong></pp>
+<pp><strong>Bachelor of Science (B.Sc.) in Telecommunications Engineering</strong></pp>
 <div>
 <p>
   <p class="alignleft">Instituto Federal de Santa Catarina, São José, SC, Brazil</p>
@@ -158,7 +147,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
     <li>Thesis: Storage in hyper-converged cloud infrastructure using containers.</li>
 </ul>
 
-<pp><strong>Exchange Student - B. Eng, Electrical and Electronics Engineering</strong></pp>
+<pp><strong>Study Abroad: Undergraduate Coursework in Electrical Engineering</strong></pp>
 <div>
 <p>
   <p class="alignleft">University of California, Santa Barbara, CA, United States</p>
@@ -176,14 +165,10 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 
 ----
 
-<center><pt>Skills</pt></center>
+<center><pt>Technical Proficiencies</pt></center>
 
 <ul>
-  <li><b>Advanced:</b> Python (<i>boto3, requests, PyQt</i>), Linux (<i>+10 years of daily usage</I>), SSH, Git, GitLab CI, Bash.</li>
-  <li><b>Intermediate:</b> C/C++, Docker, GitHub Actions, LaTeX, Jira, Networking, AWS, Terraform, Prometheus, Grafana, Project Management.</li>
-  <li><b>Basic:</b> MATLAB, Java, MySQL, Jenkins, Kubernetes, GCP, OCI.</li>
-  <li><b>LinkedIn Skill Assessment: </b>AWS, Python, Bash, C++.</li>
-  <li><b>Language:</b> native Portuguese, fluent English.</li>
+  <li>Python, Linux, SSH, Git, GitLab CI, Bash, C/C++, Docker, GitHub Actions, LaTeX, Jira, AWS, Terraform, Prometheus, Grafana, MATLAB, Java, MySQL, Jenkins, Kubernetes, GCP, OCI.</li>
 </ul>
 
 <br>
