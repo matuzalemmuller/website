@@ -168,7 +168,7 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <center><pt>Technical Proficiencies</pt></center>
 
 <ul>
-  <li>Python, Linux, SSH, Git, GitLab CI, Bash, C/C++, Docker, GitHub Actions, LaTeX, Jira, AWS, Terraform, Prometheus, Grafana, MATLAB, Java, MySQL, Jenkins, Kubernetes, GCP, OCI.</li>
+  <li>Python, Linux, AWS (EC2, RDS, S3, Route 53, VPC, Lambda, CloudWatch, Config, Budgets), SSH, Git, GitLab CI, Bash, C/C++, Docker, GitHub Actions, LaTeX, Jira, Terraform, Prometheus, Grafana, MATLAB, MySQL, Jenkins, GCP, OCI.</li>
 </ul>
 
 <br>
@@ -179,13 +179,14 @@ A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_
 <ul>
   <pp>Main Certifications</pp>
   <br>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/daf606ca-9530-4a28-98f9-3e93aca9be10">AWS Expert. Aug 2022.</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/9e01a36b-eb84-44e2-8fdc-4037aee9d5d9">Uncomplicating Docker. Apr 2022.</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/1e67f9a9-e81a-45ec-ac19-df3bab4a2b95">AWS Certified Solutions Architect - Associate. Mar 2023.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=17517B9B14A755B1D7CD88250EEA9A835B981D69F2A6A48687F7CE1D882A0FD4">Oracle Cloud Infrastructure Foundations 2021 Associate. Feb 2022.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/3a87086a-6c38-4460-8350-f31e644c94b9/public_url">GitLab Certified Associate. Jan 2022.</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/5b0f6fb0-b647-49f3-9f9f-5c773a922af9">Mutirão DevOps. Dec 2021.</a></li>
   <br>
   <pp>Other Certifications</pp>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/daf606ca-9530-4a28-98f9-3e93aca9be10">AWS Expert. Aug 2022.</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/9e01a36b-eb84-44e2-8fdc-4037aee9d5d9">Uncomplicating Docker. Apr 2022.</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.credential.net/5b0f6fb0-b647-49f3-9f9f-5c773a922af9">Mutirão DevOps. Dec 2021.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/account/accomplishments/verify/H6GV574HAYM2">Learning How to Learn: Powerful mental tools to help you master tough subjects. McMaster University. Sep 2020.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/XAKPMPJ6FR92">Specialization: AWS Fundamentals. AWS. 4 Courses. Aug 2020.</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://coursera.org/account/accomplishments/specialization/PL43DCB7UUEP">Specialization: Improve Your English Communication Skills. Georgia Tech. 4 Courses. Aug 2020.</a></li>
