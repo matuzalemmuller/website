@@ -1,3 +1,7 @@
+## Website down until I have time to address some jekyll issues. See my [LinkedIn profile](https://www.linkedin.com/in/matuzalemmuller/) for information about my work and projects.
+
+---
+
 My personal website built using [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU).
 
 ---
