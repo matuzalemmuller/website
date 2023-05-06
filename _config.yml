@@ -4,7 +4,7 @@ description         : >-
                       Systems Engineer, problem solver, and my family's IT guy
 baseurl             : ""
 repository          : matuzalemmuller/matuzalemmuller.github.io 
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : matuzalemmuller/portfolYOU
 
 
 ### Plugins ###
