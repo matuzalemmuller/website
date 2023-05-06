@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Matuzalem (Mat) Muller
 description         : >-
-                      DevOps engineer, problem solver, and my family's IT guy
+                      Systems Engineer, problem solver, and my family's IT guy
 baseurl             : ""
 repository          : matuzalemmuller/matuzalemmuller.github.io 
 remote_theme        : YoussefRaafatNasry/portfolYOU

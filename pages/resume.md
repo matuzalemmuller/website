@@ -43,17 +43,28 @@ ul li
 }
 </style>
 
-A PDF version of my resume is available [here](../assets/Resume_MullerDosSantos_Matuzalem_DevEmail.pdf).
-
 ---
 
 <center><pt>Professional Experience</pt></center>
+
+<pp><strong>Associate Systems Engineer</strong></pp>
+<div>
+<p>
+  <p class="alignleft">Susquehanna International Group, Philadelphia, US</p>
+  <p class="alignright">May 2023 to Present</p>
+</p>
+<br>
+</div>
+<br>
+<ul>
+  <li>Administration of Windows, Linux, Citrix, Virtualization, and Storage. Will add more information as I develop on the job.</li>
+</ul>
 
 <pp><strong>DevOps Engineer</strong></pp>
 <div>
 <p>
   <p class="alignleft">ElephantDrive, Los Angeles, US</p>
-  <p class="alignright">October 2021 to Present</p>
+  <p class="alignright">October 2021 to April 2023</p>
 </p>
 <br>
 </div>
